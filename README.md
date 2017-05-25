@@ -13,6 +13,7 @@ Discovery: { will update as soon as I find more vunerabilities }
 - private SDK was leaked onto the open web
 - This product was a result of leaked intel
 - old passwords / usernames were saved within the device as plain text
+- was able to brute force shell login; best case: 6 hrs
 
 
 
